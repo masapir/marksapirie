@@ -1,0 +1,42 @@
+#introp1 { font-size: 2.7rem;}
+
+html {
+	height: 100%;
+}
+
+body {
+	height: 100%;	
+	font-family: 'Cormorant Garamond', serif;
+	/*	color:#d4eaf7; */
+	color:#333360;
+	background-color:#d2e2f7;
+/*	background-color:#3d616d; */
+}
+
+/* this works for centering an item fitting in single pane:;
+body {
+	display: flex;
+	justify-content: center;
+	align-items: center;
+}
+*/
+
+h1 {
+	color:#d4eaf7
+}
+
+
+h5 {
+	font-size: 2rem;
+	font-weight: bold;
+}
+
+h6 {
+	font-size: 1.9rem;
+	font-weight: bold;
+
+}
+
+p, li	{
+	font-size: 1.55rem;
+}
