@@ -20,6 +20,11 @@ body {
 		opacity: 0.5;
 }
 
+.staraddr {
+		font-size: 0.7rem;
+
+}
+
 /* this works for centering an item fitting in single pane:;
 body {
 	display: flex;
