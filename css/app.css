@@ -13,6 +13,13 @@ body {
 /*	background-color:#3d616d; */
 }
 
+.note {
+		font-family: 'Cormorant Upright', serif;
+		font-size: 1.1rem;
+		letter-spacing:0.08em;
+		opacity: 0.5;
+}
+
 /* this works for centering an item fitting in single pane:;
 body {
 	display: flex;
